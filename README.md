@@ -1,2 +1,2 @@
 # video-complexsystems
-Archives de vidéo pour usage pédagogique
+Archives de vidéos pour usage pédagogique
